@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 8989f0cee4109b34ca0f5c0a6a4b9eb1
+timeCreated: 1461076149
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 00-LIT-s10
+    100002: 00-LIT-s11
+    100004: 00-LIT-s12
+    100006: 00-LIT-s13
+    100008: 00-LIT-s13.00-LIT-s14
+    100010: 00-LIT-s13.00-LIT-s15
+    100012: 00-LIT-s16
+    100014: 00-LIT-s17
+    100016: 00-LIT-s18
+    100018: 00-LIT-s19
+    100020: 00-LIT-s20
+    100022: 00-LIT-st0
+    100024: 00-LIT-st1
+    100026: 00-LIT-st1.00-LIT-st2
+    100028: 00-LIT-st1.00-LIT-st3
+    100030: 00-LIT-st4
+    100032: 00-LIT-st5
+    100034: 00-LIT-st6
+    100036: 00-LIT-st7
+    100038: 00-LIT-st8
+    100040: 00-LIT-st9
+    100042: Assembly01
+    100044: Box01
+    100046: Box02
+    100048: Box05
+    100050: Box06
+    100052: Constructi
+    100054: Cylinder.0
+    100056: Cylinder.1
+    100058: Cylinder.2
+    100060: Fire_Escap
+    100062: Lid
+    100064: light
+    100066: Object19
+    100068: Object45
+    100070: Postbox
+    100072: //RootNode
+    100074: road01
+    100076: road02
+    100078: road03
+    100080: Side Han.0
+    100082: Side Han.1
+    100084: Side Handl
+    100086: Trash Bin
+    100088: trashbin
+    100090: trashcan
+    400000: 00-LIT-s10
+    400002: 00-LIT-s11
+    400004: 00-LIT-s12
+    400006: 00-LIT-s13
+    400008: 00-LIT-s13.00-LIT-s14
+    400010: 00-LIT-s13.00-LIT-s15
+    400012: 00-LIT-s16
+    400014: 00-LIT-s17
+    400016: 00-LIT-s18
+    400018: 00-LIT-s19
+    400020: 00-LIT-s20
+    400022: 00-LIT-st0
+    400024: 00-LIT-st1
+    400026: 00-LIT-st1.00-LIT-st2
+    400028: 00-LIT-st1.00-LIT-st3
+    400030: 00-LIT-st4
+    400032: 00-LIT-st5
+    400034: 00-LIT-st6
+    400036: 00-LIT-st7
+    400038: 00-LIT-st8
+    400040: 00-LIT-st9
+    400042: Assembly01
+    400044: Box01
+    400046: Box02
+    400048: Box05
+    400050: Box06
+    400052: Constructi
+    400054: Cylinder.0
+    400056: Cylinder.1
+    400058: Cylinder.2
+    400060: Fire_Escap
+    400062: Lid
+    400064: light
+    400066: Object19
+    400068: Object45
+    400070: Postbox
+    400072: //RootNode
+    400074: road01
+    400076: road02
+    400078: road03
+    400080: Side Han.0
+    400082: Side Han.1
+    400084: Side Handl
+    400086: Trash Bin
+    400088: trashbin
+    400090: trashcan
+    2300000: 00-LIT-s10
+    2300002: 00-LIT-s11
+    2300004: 00-LIT-s12
+    2300006: 00-LIT-s13
+    2300008: 00-LIT-s13.00-LIT-s14
+    2300010: 00-LIT-s13.00-LIT-s15
+    2300012: 00-LIT-s16
+    2300014: 00-LIT-s17
+    2300016: 00-LIT-s18
+    2300018: 00-LIT-s19
+    2300020: 00-LIT-s20
+    2300022: 00-LIT-st0
+    2300024: 00-LIT-st1
+    2300026: 00-LIT-st1.00-LIT-st2
+    2300028: 00-LIT-st1.00-LIT-st3
+    2300030: 00-LIT-st4
+    2300032: 00-LIT-st5
+    2300034: 00-LIT-st6
+    2300036: 00-LIT-st7
+    2300038: 00-LIT-st8
+    2300040: 00-LIT-st9
+    2300042: Box01
+    2300044: Box02
+    2300046: Box05
+    2300048: Box06
+    2300050: Constructi
+    2300052: Cylinder.0
+    2300054: Cylinder.1
+    2300056: Cylinder.2
+    2300058: Fire_Escap
+    2300060: Lid
+    2300062: Object19
+    2300064: Object45
+    2300066: Postbox
+    2300068: road01
+    2300070: road02
+    2300072: road03
+    2300074: Side Han.0
+    2300076: Side Han.1
+    2300078: Side Handl
+    2300080: Trash Bin
+    2300082: trashcan
+    3300000: 00-LIT-s10
+    3300002: 00-LIT-s11
+    3300004: 00-LIT-s12
+    3300006: 00-LIT-s13
+    3300008: 00-LIT-s13.00-LIT-s14
+    3300010: 00-LIT-s13.00-LIT-s15
+    3300012: 00-LIT-s16
+    3300014: 00-LIT-s17
+    3300016: 00-LIT-s18
+    3300018: 00-LIT-s19
+    3300020: 00-LIT-s20
+    3300022: 00-LIT-st0
+    3300024: 00-LIT-st1
+    3300026: 00-LIT-st1.00-LIT-st2
+    3300028: 00-LIT-st1.00-LIT-st3
+    3300030: 00-LIT-st4
+    3300032: 00-LIT-st5
+    3300034: 00-LIT-st6
+    3300036: 00-LIT-st7
+    3300038: 00-LIT-st8
+    3300040: 00-LIT-st9
+    3300042: Box01
+    3300044: Box02
+    3300046: Box05
+    3300048: Box06
+    3300050: Constructi
+    3300052: Cylinder.0
+    3300054: Cylinder.1
+    3300056: Cylinder.2
+    3300058: Fire_Escap
+    3300060: Lid
+    3300062: Object19
+    3300064: Object45
+    3300066: Postbox
+    3300068: road01
+    3300070: road02
+    3300072: road03
+    3300074: Side Han.0
+    3300076: Side Han.1
+    3300078: Side Handl
+    3300080: Trash Bin
+    3300082: trashcan
+    4300000: Box01
+    4300002: Postbox
+    4300004: road03
+    4300006: road02
+    4300008: road01
+    4300010: 00-LIT-s20
+    4300012: 00-LIT-s19
+    4300014: 00-LIT-s18
+    4300016: 00-LIT-s17
+    4300018: 00-LIT-s16
+    4300020: 00-LIT-s13.00-LIT-s15
+    4300022: 00-LIT-s13.00-LIT-s14
+    4300024: 00-LIT-s13
+    4300026: 00-LIT-s12
+    4300028: 00-LIT-s11
+    4300030: 00-LIT-s10
+    4300032: 00-LIT-st9
+    4300034: 00-LIT-st8
+    4300036: 00-LIT-st7
+    4300038: 00-LIT-st6
+    4300040: 00-LIT-st5
+    4300042: 00-LIT-st4
+    4300044: 00-LIT-st1.00-LIT-st3
+    4300046: 00-LIT-st1.00-LIT-st2
+    4300048: 00-LIT-st1
+    4300050: 00-LIT-st0
+    4300052: Object19
+    4300054: Object45
+    4300056: Constructi
+    4300058: Fire_Escap
+    4300060: Cylinder.2
+    4300062: Cylinder.1
+    4300064: Cylinder.0
+    4300066: trashcan
+    4300068: Lid
+    4300070: Side Han.0
+    4300072: Side Han.1
+    4300074: Side Handl
+    4300076: Trash Bin
+    4300078: Box05
+    4300080: Box02
+    4300082: Box06
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
